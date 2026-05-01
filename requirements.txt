@@ -1,0 +1,4 @@
+aiokafka>=0.8.0
+websockets>=11.0
+pandas>=2.0
+pyarrow>=8.0
